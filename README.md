@@ -3,7 +3,7 @@
 The project focuses on events analysis of World War II
 by using narrative storytelling methods. With narrative perspective,
 people can easier understand and be attracted to the information we
-want to deliver. Using ArcGIS tools, we can demonstrate specific
+want to deliver. Using ArcGIS and tableau tools, we can demonstrate specific
 events with visual analysis of data or statistics. In this project, we will
 go through world war II by introducing history, analyzing weapons
 and attacked countries, showing reaction of civilization by weather
